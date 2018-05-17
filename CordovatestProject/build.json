@@ -1,0 +1,18 @@
+{
+	"ios": {
+		"debug": {
+			"codeSignIdentity": "iPhone Developer",
+			"developmentTeam": "X5V7LZ4UN8",
+			"packageType": "development"
+		},
+		"release": {
+			"codeSignIdentity": "iPhone Developer",
+			"developmentTeam": "Vipera GmbH",
+			"packageType": "enterprise"
+		}
+	},
+	"android": {
+		"debug": {},
+		"release": {}
+	}
+}
